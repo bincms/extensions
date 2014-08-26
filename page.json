@@ -1,8 +1,8 @@
 {
-    "name": "Menu Extension",
+    "name": "Page Extension",
     "description": "Extension description",
     "download": {
-        "url": "https://github.com/bincms/Menu.git",
+        "url": "https://github.com/bincms/Page.git",
         "version": "master",
         "type": "git"
     }
