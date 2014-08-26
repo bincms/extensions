@@ -1,12 +1,10 @@
 {
     "name": "vendor/extension-name",
-    "cmsVersion": "1.0.0",
     "displayName": "Extension name",
     "description": "Extension description",
     "download": {
         "url": "https://github.com/vendor/extension-name.git",
-        "version": "1.0.0",
-        "branch": "master",
+        "version": "master",
         "type": "git"
     }
 }
